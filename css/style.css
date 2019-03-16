@@ -1,0 +1,36 @@
+.logo img {  width: 100px; 
+vertical-align: middle;
+margin-right: 34px;
+margin-left: 15px;
+}
+.d-block { display: inline-block; }
+
+
+
+.navigation-li {  margin-right: 15px;
+	
+}
+
+.pirveligverdi {margin-top: 30px; margin-left: 25px;}
+
+.date{background:#3D58A6;
+	font-size: 30px;
+	color: #fff;
+display: inline-block; padding: 5px;margin-top: 5px;
+ }
+span{color: red;
+}
+.month {font-size: 20px; color: blue;
+margin-top: 15px; }
+.container {margin-left: 25px;}
+.surati{ display: inline-block; width: 270px; 
+	vertical-align: top;
+	margin-right: 15px; 
+ }
+ .text {display:inline-block; width: 770px; }
+ .satauri{ margin-top: 15px; margin-bottom: 15px}
+ .divider { height: 30px; background:black; width: 2px; vertical-align: middle;}
+ .blockfeatured {margin-top: 30px}
+
+
+
