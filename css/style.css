@@ -16,7 +16,7 @@ margin-left: 15px;
 .date{background:#3D58A6;
 	font-size: 30px;
 	color: #fff;
-display: inline-block; padding: 5px;margin-top: 5px;
+display: inline-block; padding: 5px;margin-top: 70px
  }
 span{color: red;
 }
@@ -26,11 +26,29 @@ margin-top: 15px; }
 .surati{ display: inline-block; width: 270px; 
 	vertical-align: top;
 	margin-right: 15px; 
+	margin-top: 10px
  }
- .text {display:inline-block; width: 770px; }
- .satauri{ margin-top: 15px; margin-bottom: 15px}
+ .text {width: 770px; }
+ .text2 {margin-top: 5px}
+ .satauri{ margin-top: 15px; margin-bottom: 5px}
  .divider { height: 30px; background:black; width: 2px; vertical-align: middle;}
- .blockfeatured {margin-top: 30px}
+ .statia { margin-bottom: 20px; margin-left: 25px; }
+ .box{background: #F2F2F2; width: 570px; font color: black; margin top: 4px;vertical-align: middle; margin-left: 25px}
+ .mtliani-text {vertical-align: top}
+ .finger { height: 127px;  margin-top: 20px;}
+.behavior {color: black;vertical-align: top; font size: 20px;width: 333px; margin-top: 24px}
+.Web{ color: #3D58A6;}
+.mobile{height: 130px;margin-top: 20px;}
+.social-icon {width: 15px;}
+.social-youtube {width: 25px}
+.socials{margin-left: 25px}
+.dividersocials {vertical-align: top; width: 2px; height:30px; background: blue; margin-left: 5px; margin-right: 5px
+}
+.adress{color: grey ;margin-left: 25px}
+.contact {color: blue; margin-left: 25px; margin-top: 35px }
+.index2-box {background-color: #E6E6E6; width: 1300px; height:546px; vertical-align: top; margin-top: 35px ; margin-bottom: 25px;}
+.map {vertical-align: top; height: 550px;width: 874px ; margin-left: 67px; margin-top: 35px;}
+.pirveligverdi { margin-bottom: 80px }
 
 
 
